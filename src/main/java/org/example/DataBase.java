@@ -5,7 +5,7 @@ import java.sql.*;
 
 public class DataBase {
 
-    public static final String url = "Location of Database filled here";
+    public static final String url = "";
 
     public static void send()
     {

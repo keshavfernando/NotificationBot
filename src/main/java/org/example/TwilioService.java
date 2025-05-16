@@ -6,9 +6,10 @@ import com.twilio.type.PhoneNumber;
 
 public class TwilioService {
 
-    public static final String Account_SSID = "Insert Account SSID";
-    public static final String Account_TOKEN = "Insert Account Token";
+    public static final String Account_SSID = "";
+    public static final String Account_TOKEN = "";
     public static final String sendFromNum = "";
+    public static final String sendToNum = "";
 
 
     // needs to be integrated with SQL DataBase
